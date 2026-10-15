@@ -98,4 +98,27 @@ The public GitHub repository includes a runnable demonstration using synthetic b
 
 ---
 
+## Project 4: Customer Churn Prediction & Retention Analytics
 
+**Tools:** Python, pandas, NumPy, scikit-learn
+
+[View Project Repository](https://github.com/nsburkhart/customer-churn-prediction)
+
+In this project, I analyzed 7,043 customer records from the IBM Telco dataset to understand why customers leave and identify opportunities to improve retention. I used Python to clean and explore the data, investigate customer behavior, and develop machine learning models to predict churn.
+
+I compared Logistic Regression and Random Forest models, evaluating their ability to identify customers at risk of leaving. Beyond model performance, I focused on translating the findings into practical business recommendations.
+
+### Key Findings
+
+- **High-Risk Segment:** Identified 2,680 month-to-month customers without technical support who accounted for 72.23% of observed churn.
+- **Churn Rate:** This segment had a 50.37% churn rate, compared with 26.54% across all customers.
+- **Model Performance:** Logistic Regression achieved 66.8% recall and a 0.614 F1-score at a 40% prediction threshold.
+- **Revenue Opportunity:** Estimated that a hypothetical 10% relative reduction in churn within this segment could retain approximately 135 customers, representing $122,859 in annualized gross revenue.
+
+### Business Recommendation
+
+Recommended testing proactive technical support and longer-term contract incentives for high-risk customers. A controlled retention campaign could help determine whether these interventions reduce churn and provide a positive financial return.
+
+*Revenue estimates are illustrative and do not account for campaign costs or future customer churn.*
+
+---
