@@ -45,9 +45,14 @@ I then built a Tableau dashboard to visualize revenue trends, customer purchasin
 - **Average Order Value:** £517.95
 - **Repeat Customer Rate:** 72.39%
 
+
 ### Dashboard Preview
 
-*Interactive Tableau dashboard featuring sales KPIs, monthly revenue trends, top international markets, and product performance.*
+![Online Retail Sales Performance Dashboard](Dashboard%20Screenshot.png)
+
+*Tableau dashboard showing sales KPIs, monthly revenue trends, international markets, and top-performing products.*
 
 ---
+
+
 
