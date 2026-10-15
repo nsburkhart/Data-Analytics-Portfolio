@@ -71,9 +71,30 @@ I wrote SQL queries to answer business questions about sales performance, custom
 - Calculated average order value and units sold.
 - Analyzed monthly revenue trends and geographic sales performance.
 
-### SQL Analysis Preview
+---
 
-*PostgreSQL queries and results demonstrating sales analysis across multiple related tables.*
+## Project 3: Basketball Shot Probability Modeling
+
+**Tools:** Python, pandas, NumPy, scikit-learn
+
+[View Project Repository](https://github.com/nsburkhart/basketball-shot-probability-model)
+
+This project focused on predicting the probability of a basketball shot being made using machine learning. I developed a modeling approach that considers shot location, defender positioning, shooter tendencies, and game situations to better evaluate shot quality.
+
+I started with logistic regression and experimented with histogram-based gradient boosting to capture more complex relationships in the data. I also engineered basketball-specific features to improve the model's ability to distinguish between different shot situations.
+
+### Key Techniques
+
+- **Feature Engineering:** Created shot-zone categories, shooter-zone combinations, and defender movement features.
+- **Machine Learning:** Compared logistic regression with histogram-based gradient boosting.
+- **Categorical Encoding:** Used one-hot encoding and target encoding to incorporate categorical information.
+- **Model Evaluation:** Evaluated probability predictions using log-loss and explored cross-validation and feature importance.
+
+### Project Outcome
+
+Developed a complete machine learning workflow covering feature engineering, model training, and probability prediction.
+
+The public GitHub repository includes a runnable demonstration using synthetic basketball data, allowing others to explore the modeling approach without access to the original internship assessment dataset.
 
 ---
 
