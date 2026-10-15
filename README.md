@@ -54,5 +54,27 @@ I then built a Tableau dashboard to visualize revenue trends, customer purchasin
 
 ---
 
+## Project 2: Sales Analytics SQL Project
+
+**Tools:** PostgreSQL, SQL, pgAdmin 4
+
+[View Project Repository](https://github.com/nsburkhart/sales-analytics-sql)
+
+In this project, I built a relational sales database from scratch using PostgreSQL. I created a synthetic dataset containing 100 customers, 30 products, 400 orders, and 1,200 order-item records across four connected tables.
+
+I wrote SQL queries to answer business questions about sales performance, customer purchasing behavior, and product demand. The analysis involved multi-table joins, aggregations, filtering, grouping, and date-based calculations.
+
+### Key Analysis
+
+- Identified top-performing products and categories by revenue.
+- Ranked customers by total spending and order frequency.
+- Calculated average order value and units sold.
+- Analyzed monthly revenue trends and geographic sales performance.
+
+### SQL Analysis Preview
+
+*PostgreSQL queries and results demonstrating sales analysis across multiple related tables.*
+
+---
 
 
