@@ -27,4 +27,27 @@ Each project includes an overview of the problem, the tools used, and the result
 4. [Customer Churn Prediction & Retention Analytics](#project-4-customer-churn-prediction--retention-analytics)
 
 ---
-  
+
+## Project 1: Online Retail Sales Performance Analysis
+
+**Tools:** PostgreSQL, SQL, Tableau
+
+[View Project Repository](https://github.com/nsburkhart/online-retail-sales-performance)
+
+In this project, I analyzed an online retail transaction dataset to better understand sales performance, customer behavior, and product revenue. I used PostgreSQL to clean and analyze the data, investigating returns, missing customer information, and unusual transactions before creating business-focused KPIs.
+
+I then built a Tableau dashboard to visualize revenue trends, customer purchasing behavior, international markets, and top-performing products.
+
+### Key Results
+
+- **Total Revenue:** £20,334,157
+- **Total Orders:** 39,259
+- **Average Order Value:** £517.95
+- **Repeat Customer Rate:** 72.39%
+
+### Dashboard Preview
+
+*Interactive Tableau dashboard featuring sales KPIs, monthly revenue trends, top international markets, and product performance.*
+
+---
+
