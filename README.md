@@ -1,4 +1,3 @@
-
 # Data Analytics Portfolio
 
 ## Tech Stack
@@ -6,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-Welcome to my Data Analytics Portfolio! This repository brings together projects I've completed using Python, SQL, PostgreSQL, and Tableau. My work focuses on analyzing data, identifying patterns, and turning findings into useful business insights.
+Welcome to my Data Analytics Portfolio! This repository brings together projects I've completed using Python, SQL, PostgreSQL, Power BI, and Tableau. My work focuses on analyzing data, identifying patterns, and turning findings into useful business insights.
 
 Each project includes an overview of the problem, the tools used, and the results of the analysis. You can also explore the individual GitHub repositories to see the code and supporting work.
 
@@ -44,7 +44,6 @@ I then built a Tableau dashboard to visualize revenue trends, customer purchasin
 - **Total Orders:** 39,259
 - **Average Order Value:** £517.95
 - **Repeat Customer Rate:** 72.39%
-
 
 ### Dashboard Preview
 
@@ -100,13 +99,15 @@ The public GitHub repository includes a runnable demonstration using synthetic b
 
 ## Project 4: Customer Churn Prediction & Retention Analytics
 
-**Tools:** Python, pandas, NumPy, scikit-learn
+**Tools:** Python, pandas, NumPy, scikit-learn, Power BI, DAX
 
 [View Project Repository](https://github.com/nsburkhart/customer-churn-prediction)
 
 In this project, I analyzed 7,043 customer records from the IBM Telco dataset to understand why customers leave and identify opportunities to improve retention. I used Python to clean and explore the data, investigate customer behavior, and develop machine learning models to predict churn.
 
 I compared Logistic Regression and Random Forest models, evaluating their ability to identify customers at risk of leaving. Beyond model performance, I focused on translating the findings into practical business recommendations.
+
+I also built an interactive Power BI dashboard to visualize churn patterns and make the results easier to explore.
 
 ### Key Findings
 
@@ -115,13 +116,15 @@ I compared Logistic Regression and Random Forest models, evaluating their abilit
 - **Model Performance:** Logistic Regression achieved 66.8% recall and a 0.614 F1-score at a 40% prediction threshold.
 - **Revenue Opportunity:** Estimated that a hypothetical 10% relative reduction in churn within this segment could retain approximately 135 customers, representing $122,859 in annualized gross revenue.
 
-Power BI Dashboard Preview
+### Power BI Dashboard Preview
 
-Interactive Power BI dashboard showing churn KPIs, customer retention patterns, contract and payment method comparisons, and a high-risk customer segment.
+![Customer Churn & Retention Analytics Dashboard](Customer%20Churn%20Dashboard.png)
+
+*Interactive Power BI dashboard showing churn KPIs, customer retention patterns, contract and payment method comparisons, and a high-risk customer segment.*
 
 The dashboard includes interactive slicers for contract type and payment method, allowing users to explore how churn rates vary across customer groups.
 
-View Full Dashboard Project
+[View Full Dashboard Project](https://github.com/nsburkhart/customer-churn-prediction)
 
 ### Business Recommendation
 
