@@ -47,7 +47,7 @@ I then built a Tableau dashboard to visualize revenue trends, customer purchasin
 
 ### Dashboard Preview
 
-![Online Retail Sales Performance Dashboard](Dashboard%20Screenshot.png)
+![Online Retail Sales Performance Dashboard](images/Dashboard%20Screenshot.png)
 
 *Tableau dashboard showing sales KPIs, monthly revenue trends, international markets, and top-performing products.*
 
@@ -118,7 +118,7 @@ I also built an interactive Power BI dashboard to visualize churn patterns and m
 
 ### Power BI Dashboard Preview
 
-![Customer Churn & Retention Analytics Dashboard](Customer%20Churn%20Dashboard.png)
+![Customer Churn & Retention Analytics Dashboard](images/Customer%20Churn%20Dashboard.png)
 
 *Interactive Power BI dashboard showing churn KPIs, customer retention patterns, contract and payment method comparisons, and a high-risk customer segment.*
 
