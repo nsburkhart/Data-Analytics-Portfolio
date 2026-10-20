@@ -115,6 +115,14 @@ I compared Logistic Regression and Random Forest models, evaluating their abilit
 - **Model Performance:** Logistic Regression achieved 66.8% recall and a 0.614 F1-score at a 40% prediction threshold.
 - **Revenue Opportunity:** Estimated that a hypothetical 10% relative reduction in churn within this segment could retain approximately 135 customers, representing $122,859 in annualized gross revenue.
 
+Power BI Dashboard Preview
+
+Interactive Power BI dashboard showing churn KPIs, customer retention patterns, contract and payment method comparisons, and a high-risk customer segment.
+
+The dashboard includes interactive slicers for contract type and payment method, allowing users to explore how churn rates vary across customer groups.
+
+View Full Dashboard Project
+
 ### Business Recommendation
 
 Recommended testing proactive technical support and longer-term contract incentives for high-risk customers. A controlled retention campaign could help determine whether these interventions reduce churn and provide a positive financial return.
